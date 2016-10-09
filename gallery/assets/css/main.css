@@ -717,9 +717,8 @@
 		-webkit-overflow-scrolling: touch;
 		position: fixed;
 		top: 0;
-		width: auto;
-                max-width: 100%;
-		height: auto;
+		width: 22.5em;
+		height: 100%;
 		background: #fff;
 		outline: 0;
 		overflow-x: hidden;
@@ -788,8 +787,6 @@
 				-ms-transition: opacity 0.5s ease, visibility 0.5s;
 				transition: opacity 0.5s ease, visibility 0.5s;
 				width: auto;
-                                max-width: 100%;
-                                height: auto;
 				background: #fff;
 				text-align: center;
 			}
