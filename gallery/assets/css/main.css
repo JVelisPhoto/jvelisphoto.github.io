@@ -818,7 +818,10 @@
 			font-size: 2.25em;
 			font-weight: 700;
 		}
-
+	#header li {
+			font-size: 0.5em;
+			font-weight: 700;
+		}
 /* Footer */
 
 	#footer {
